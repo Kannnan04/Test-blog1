@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import './Cardone.css';
 import { FaRegUserCircle } from "react-icons/fa";
 import { FaRegShareSquare } from "react-icons/fa";
